@@ -27,7 +27,7 @@
     "enableScan": true,
     "scanPullRequests": true,
     "enableRemediation": false,
-    "enableSecretsScan": false,
+    "enableSecretsScan": true,
     "incrementalScan": true,
     "snippetSize": 0,
     "baseBranches": []
